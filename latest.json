@@ -1,0 +1,9 @@
+{
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.0.apk",
+  "sha256": "1bb142dd81406a4e1fc4e26fdbb3f13bf11f8ba1f018559b1af00ce2d5bcfd9c",
+  "size": 13309653,
+  "minSdk": 21,
+  "notes": "Vazifalar uchun haqiqiy bildirishnomalar.\nTelefon qayta yoqilganda eslatmalarni tiklash.\nIlova ichidan yangilanishni tekshirish, APK yuklab olish va o‘rnatish.\nWi-Fi orqali avtomatik yuklab olish sozlamasi."
+}
