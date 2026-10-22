@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.2.apk",
-  "sha256": "5e79ce9d0181fe7fd5d767b408d00cdc229b7eb0cd1306d114c86d38f2b3a73b",
-  "size": 13313537,
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.3.apk",
+  "sha256": "494f47b019bba0f232d143d81c9b0ced661099d245619d195677d7280fa3bc69",
+  "size": 13320723,
   "minSdk": 21,
-  "notes": "Telegram serverda tasdiqlanmaganda cheksiz kutish holatini tugatish.\nTelegram ulash xatosining aniq belgisini ilovada ko‘rsatish.\nServerda RS256 va ES256 imzolari hamda son/matn shaklidagi Telegram ID’larini tekshirish.\nBrauzerdagi tushunarsiz JSON xatosi o‘rniga o‘qiladigan natija sahifasi."
+  "notes": "Telegram bo‘limidan haqiqiy sinov qo‘ng‘irog‘ini yuborish.\nYordamchi akkaunt va qo‘ng‘iroq holatini serverdan ko‘rsatish.\nSinov qo‘ng‘irog‘ini to‘xtatish va holatini qayta tekshirish.\nTarmoq uzilganda bir xil so‘rov ID’si bilan takroriy qo‘ng‘iroqdan saqlanish.\nSinov audio — uchta qisqa ovoz. Jonli AI suhbat va rejalangan uyg‘otish bu versiyada hali ulanmagan."
 }

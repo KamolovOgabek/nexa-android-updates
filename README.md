@@ -1,6 +1,6 @@
 # NEXA Android
 
-[So‘nggi APK — yuklab olish](https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.2.apk)
+[So‘nggi APK — yuklab olish](https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.3.apk)
 
 Android 5.0+. Ilovada Sozlamalar → Ilovani yangilash orqali keyingi versiyalarni oling.
 
