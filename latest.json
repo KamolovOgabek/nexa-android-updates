@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.4",
-  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.4.apk",
-  "sha256": "194285a2765a765faafb392c4a7491f067cc22e75b68772127a55d94729b3649",
-  "size": 3056673,
+  "versionCode": 9,
+  "versionName": "0.4.0",
+  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.4.0.apk",
+  "sha256": "435da92cbe6bf944f0ba285899cb6cd59bdfc3d2d56ca19b04c2495e86f48bc0",
+  "size": 54162274,
   "minSdk": 21,
-  "notes": "Sahifalar orasidagi o'tish yengillashtirildi. Vazifalarni saqlash va eslatmalarni sozlash fon oqimiga ko'chirildi. Tungi va yorug' rejim asosiy sahifalarda bir xil ishlaydi. Keraksiz doimiy animatsiyalar kamaytirildi. Katta vazifalar ro'yxati uchun kalendar optimallashtirildi. Ilova hajmi kichraytirildi. Telegram ulanishi va haqiqiy sinov qo'ng'irog'i saqlandi. Jonli AI suhbat hali tayyor emas."
+  "notes": "Mahalliy Alloma suhbat modeli, o‘zbekcha ovozni tanish va nutq yaratish qo‘shildi. Ovoz va AI bo‘limidan modellar alohida yuklanadi. Shaxsiy ovoz namunasi telefonda yozilib moslashtiriladi. Telegram jonli suhbat boshqaruvi, qayta ulanish, reja va ob-havoni o‘qiydigan uyg‘otish qo‘ng‘irog‘i qo‘shildi; yangi server versiyasi kerak. Vaqti aytilgan rejalar saqlanadi, telefon budilnigi o‘rnatiladi. Ob-havo va manbali Vikipediya qidiruvi mavjud. Mahalliy nutq Android 7.0+ talab qiladi, AI tezligi telefon xotirasiga bog‘liq. Yangi ovoz oqimi jismoniy telefonda hali tekshirilmagan. MMS ovozi notijorat foydalanish uchun."
 }
