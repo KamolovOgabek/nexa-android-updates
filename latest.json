@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.3",
-  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.3.apk",
-  "sha256": "494f47b019bba0f232d143d81c9b0ced661099d245619d195677d7280fa3bc69",
-  "size": 13320723,
+  "versionCode": 8,
+  "versionName": "0.3.4",
+  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.4.apk",
+  "sha256": "194285a2765a765faafb392c4a7491f067cc22e75b68772127a55d94729b3649",
+  "size": 3056673,
   "minSdk": 21,
-  "notes": "Telegram bo‘limidan haqiqiy sinov qo‘ng‘irog‘ini yuborish.\nYordamchi akkaunt va qo‘ng‘iroq holatini serverdan ko‘rsatish.\nSinov qo‘ng‘irog‘ini to‘xtatish va holatini qayta tekshirish.\nTarmoq uzilganda bir xil so‘rov ID’si bilan takroriy qo‘ng‘iroqdan saqlanish.\nSinov audio — uchta qisqa ovoz. Jonli AI suhbat va rejalangan uyg‘otish bu versiyada hali ulanmagan."
+  "notes": "Sahifalar orasidagi o?tish yengillashtirildi. Vazifalarni saqlash va eslatmalarni sozlash fon oqimiga ko?chirildi. Tungi va yorug? rejim asosiy sahifalarda bir xil ishlaydi. Keraksiz doimiy animatsiyalar kamaytirildi. Katta vazifalar ro?yxati uchun kalendar optimallashtirildi. Ilova hajmi kichraytirildi. Telegram ulanishi va haqiqiy sinov qo?ng?irog?i saqlandi. Jonli AI suhbat hali tayyor emas."
 }
