@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.1",
-  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.1.apk",
-  "sha256": "101ad203453b419d954a3960f7b2a14228019156eea09d8cf6665ba6b6fb38b6",
-  "size": 13313392,
+  "versionCode": 6,
+  "versionName": "0.3.2",
+  "url": "https://raw.githubusercontent.com/KamolovOgabek/nexa-android-updates/main/apks/NEXA-0.3.2.apk",
+  "sha256": "5e79ce9d0181fe7fd5d767b408d00cdc229b7eb0cd1306d114c86d38f2b3a73b",
+  "size": 13313537,
   "minSdk": 21,
-  "notes": "Telegram tasdiqlashdan qaytganda ulanishni avtomatik tekshirish.\nTasdiqlash sahifasidan NEXA’ga qaytish tugmasi.\nUlanishdagi xatoni “akkaunt ulanmagan” holatidan ajratish.\nTasdiqlangan Telegram nomini bosh sahifa va profilda ko‘rsatish.\nDizayn namunasi bo‘yicha bosh sahifa, chat menyusi va bo‘shliqlarni tuzatish."
+  "notes": "Telegram serverda tasdiqlanmaganda cheksiz kutish holatini tugatish.\nTelegram ulash xatosining aniq belgisini ilovada ko‘rsatish.\nServerda RS256 va ES256 imzolari hamda son/matn shaklidagi Telegram ID’larini tekshirish.\nBrauzerdagi tushunarsiz JSON xatosi o‘rniga o‘qiladigan natija sahifasi."
 }
